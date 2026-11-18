@@ -13,11 +13,6 @@
 - **[agent-cost-lens](https://github.com/Hayabusa-YL/agent-cost-lens)** — 会话成本审计工具：逐轮成本归因、缓存命中率、按天明细。样例轨迹单步 API 成本 0.026 → 0.0043 元（降 84%），缓存命中率 99%。
 - **[vllm-8gb-whitepaper](https://github.com/Hayabusa-YL/vllm-8gb-whitepaper)** — 8GB 显存跑 7B 大模型：vLLM 消费级显卡极限实战白皮书。RTX 4060 Laptop 上 Qwen2.5-7B 量化推理全流程，三个上游 issue 复现与修复。
 
-## 我在找
-
-**AI Agent 方向远程实习**。擅长把 Agent 的 API 账单算清楚、压下去，并把系统跑稳。
-
-如果你们团队在招 agent 工程方向，或者想把 Agent 费用砍下来，欢迎直接聊。
 
 ## 联系
 
